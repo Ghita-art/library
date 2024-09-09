@@ -15,5 +15,5 @@ public class BookDTO {
 
     private String genre;
 
-    private int copiesAvailable;
+   // private int copiesAvailable;
 }
